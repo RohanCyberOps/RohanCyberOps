@@ -38,6 +38,19 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 ### 📱 Mobile Development:
 ![Android](https://img.shields.io/badge/android-%23FF9900.svg?style=for-the-badge&logo=android&logoColor=white)  ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)  ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)  
 
+### 🔒 Security Tools:
+![Wireshark](https://img.shields.io/badge/wireshark-%2300C5D0.svg?style=for-the-badge&logo=wireshark&logoColor=white)  ![Metasploit](https://img.shields.io/badge/metasploit-%23E60012.svg?style=for-the-badge&logo=metasploit&logoColor=white)  ![Burp Suite](https://img.shields.io/badge/burp%20suite-%23EE3124.svg?style=for-the-badge&logo=burp-suite&logoColor=white)
+
+### 🛠️ Cloud Platforms:
+![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-%234C2C92.svg?style=for-the-badge&logo=ibm-cloud&logoColor=white)  ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+
+### 🗄️ File Storage & Version Control:
+![Dropbox](https://img.shields.io/badge/Dropbox-%230A7AEE.svg?style=for-the-badge&logo=dropbox&logoColor=white)  ![Google Drive](https://img.shields.io/badge/Google%20Drive-%234285F4.svg?style=for-the-badge&logo=google-drive&logoColor=white)
+
+### 📊 Data Analysis & Visualization:
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-%230078D4.svg?style=for-the-badge&logo=power-bi&logoColor=white)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RohanCyberOps&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RohanCyberOps&theme=flag-india&hide_border=false)<br/>
