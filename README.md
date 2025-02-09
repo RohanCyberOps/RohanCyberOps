@@ -274,7 +274,7 @@ We want to give a huge shoutout to everyone who has contributed to the project! 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif?cid=ecf05e47r62fulhp6cok1yzysxbuov3jbb43x5584js3alhk&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="width:100vw; height:30vh; object-fit:cover;">
+  <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif?cid=790b7611r5fsuqze6ljm8r9dlg37kpetef613nngfj9mfukr&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="width:100vw; height:30vh; object-fit:cover;">
 </p>
 
 ---
