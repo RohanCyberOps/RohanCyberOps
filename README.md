@@ -11,7 +11,7 @@ I'm Rohan Naagar, a cybersecurity engineer and tech enthusiast! 🚀
 Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and **AI Enthusiast**. I love working with cutting-edge technologies and constantly expanding my knowledge in areas like **Artificial General Intelligence (AGI)**, **Machine Learning**, and **Cybersecurity**. 
 
 # 💫 About Me:
-💬 Myself Rohan Naagar<br>
+💬I'm Rohan Naagar<br>
 ⚡Work at -  <br>
 🤝 I’m looking for help with Algorithms.<br>
 👀  I’m currently learning Artificial intelligence(AI),Artificial General Intelligence (AGI), Machine Learning, Deep Learning, Natural Language Processing and Large Language Models.<br>
