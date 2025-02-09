@@ -1,4 +1,7 @@
-![Hacking GIF](https://media.giphy.com/media/JTTAjM197sku8MgrRa/giphy.gif?cid=790b7611r5fsuqze6ljm8r9dlg37kpetef613nngfj9mfukr&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+<p align="center">
+  <img src="https://media.giphy.com/media/JTTAjM197sku8MgrRa/giphy.gif?cid=790b7611r5fsuqze6ljm8r9dlg37kpetef613nngfj9mfukr&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Hacking GIF" style="width:100vw; height:100vh; object-fit:cover;">
+</p>
+
 
 
 # 👋 Hi, I'm Rohan Naagar    
