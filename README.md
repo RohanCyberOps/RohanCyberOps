@@ -1,3 +1,5 @@
+![Hacking GIF](https://media.giphy.com/media/JTTAjM197sku8MgrRa/giphy.gif?cid=790b7611r5fsuqze6ljm8r9dlg37kpetef613nngfj9mfukr&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
 
 # 👋 Hi, I'm Rohan Naagar    
 I'm Rohan Naagar, a cybersecurity engineer and tech enthusiast! 🚀
