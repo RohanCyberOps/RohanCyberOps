@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 
 # 💻 Tech Stack:
 
-## **Programming Languages**
+### **Programming Languages**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 ![Erlang](https://img.shields.io/badge/erlang-%23A90533.svg?style=for-the-badge&logo=erlang&logoColor=white) 
 ![Nim](https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white)
 
-## **Frontend Development**
+### **Frontend Development**
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Svelte](https://img.shields.io/badge/svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white) 
@@ -69,7 +69,7 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 ![wxWidgets](https://img.shields.io/badge/wxwidgets-%23006699.svg?style=for-the-badge&logo=wxwidgets&logoColor=white) 
 ![Ember](https://img.shields.io/badge/ember-%23E04E39.svg?style=for-the-badge&logo=ember.js&logoColor=white)
 
-## **Backend Development**
+### **Backend Development**
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Express](https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white) 
@@ -82,7 +82,7 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 ![OpenResty](https://img.shields.io/badge/openresty-%23A50034.svg?style=for-the-badge&logo=openresty&logoColor=white) 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-## **Mobile App Development**
+### **Mobile App Development**
 ![Android](https://img.shields.io/badge/android-%23FF9900.svg?style=for-the-badge&logo=android&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
@@ -93,7 +93,7 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 ![Ionic](https://img.shields.io/badge/ionic-%233880FF.svg?style=for-the-badge&logo=ionic&logoColor=white) 
 ![Apache Cordova](https://img.shields.io/badge/apache%20cordova-%23E8E8E8.svg?style=for-the-badge&logo=apache-cordova&logoColor=black)
 
-## **AI/ML**
+### **AI/ML**
 ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
@@ -101,7 +101,7 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 ![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white) 
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-## **Databases**
+### **Databases**
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
@@ -117,14 +117,14 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![MSSQL](https://img.shields.io/badge/mssql-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-## **Data Visualization**
+### **Data Visualization**
 ![D3.js](https://img.shields.io/badge/d3.js-%23F9A03C.svg?style=for-the-badge&logo=d3.js&logoColor=white) 
 ![Chart.js](https://img.shields.io/badge/chart.js-%23FF6384.svg?style=for-the-badge&logo=chart.js&logoColor=white) 
 ![Canvas.js](https://img.shields.io/badge/canvas.js-%23000000.svg?style=for-the-badge&logo=canvas.js&logoColor=white) 
 ![Kibana](https://img.shields.io/badge/kibana-%23005571.svg?style=for-the-badge&logo=kibana&logoColor=white) 
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
-## **DevOps**
+### **DevOps**
 ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
@@ -136,13 +136,13 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 ![CircleCI](https://img.shields.io/badge/circleci-%23343434.svg?style=for-the-badge&logo=circleci&logoColor=white) 
 ![TravisCI](https://img.shields.io/badge/travisci-%233EAAAF.svg?style=for-the-badge&logo=travisci&logoColor=white)
 
-## **Backend as a Service (BaaS)**
+### **Backend as a Service (BaaS)**
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black) 
 ![Appwrite](https://img.shields.io/badge/appwrite-%23F24E1E.svg?style=for-the-badge&logo=appwrite&logoColor=white) 
 ![Amplify](https://img.shields.io/badge/amplify-%23FF9900.svg?style=for-the-badge&logo=aws-amplify&logoColor=white) 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-## **Frameworks**
+### **Frameworks**
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![.NET](https://img.shields.io/badge/.net-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white) 
 ![Electron](https://img.shields.io/badge/electron-%2347848F.svg?style=for-the-badge&logo=electron&logoColor=white) 
@@ -153,7 +153,7 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![Quasar](https://img.shields.io/badge/quasar-%231976D2.svg?style=for-the-badge&logo=quasar&logoColor=white)
 
-## **Testing**
+### **Testing**
 ![Cypress](https://img.shields.io/badge/cypress-%2317202C.svg?style=for-the-badge&logo=cypress&logoColor=white) 
 ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white) 
 ![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white) 
@@ -162,7 +162,7 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 ![Karma](https://img.shields.io/badge/karma-%230A29E4.svg?style=for-the-badge&logo=karma&logoColor=white) 
 ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
 
-## **Software**
+### **Software**
 ![Illustrator](https://img.shields.io/badge/illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white) 
 ![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/adobe%20xd-%23FF61F6.svg?style=for-the-badge&logo=adobe-xd&logoColor=white) 
@@ -174,7 +174,7 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 ![MATLAB](https://img.shields.io/badge/matlab-%230076A8.svg?style=for-the-badge&logo=mathworks&logoColor=white) 
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
-## **Static Site Generators**
+### **Static Site Generators**
 ![Gatsby](https://img.shields.io/badge/gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) 
 ![Gridsome](https://img.shields.io/badge/gridsome-%2300A672.svg?style=for-the-badge&logo=gridsome&logoColor=white) 
 ![Hugo](https://img.shields.io/badge/hugo-%23FF4088.svg?style=for-the-badge&logo=hugo&logoColor=white) 
@@ -189,15 +189,15 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 ![Hexo](https://img.shields.io/badge/hexo-%23000000.svg?style=for-the-badge&logo=hexo&logoColor=white) 
 ![Middleman](https://img.shields.io/badge/middleman-%23000000.svg?style=for-the-badge&logo=middleman&logoColor=white)
 
-## **Game Engines**
+### **Game Engines**
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
 ![Unreal Engine](https://img.shields.io/badge/unreal%20engine-%23000000.svg?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
-## **Automation**
+### **Automation**
 ![Zapier](https://img.shields.io/badge/zapier-%23FF4A00.svg?style=for-the-badge&logo=zapier&logoColor=white) 
 ![IFTTT](https://img.shields.io/badge/ifttt-%23000000.svg?style=for-the-badge&logo=ifttt&logoColor=white)
 
-## **Other**
+### **Other**
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) 
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
@@ -205,31 +205,31 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 
 # 💡 AI-Powered Tools:
 
-## **🔍 AI Search & Research**  
+### **🔍 AI Search & Research**  
 ![Perplexity AI](https://img.shields.io/badge/Perplexity_AI-%230A0A0A.svg?style=for-the-badge&logo=perplexity&logoColor=white)  ![Elicit](https://img.shields.io/badge/Elicit-%230072C6.svg?style=for-the-badge&logo=elicit&logoColor=white)  ![Consensus](https://img.shields.io/badge/Consensus-%23FF4500.svg?style=for-the-badge&logo=consensus&logoColor=white)  
 
-## **✍️ AI Writing & Content Creation**  
+### **✍️ AI Writing & Content Creation**  
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-%2300A67E.svg?style=for-the-badge&logo=openai&logoColor=white)  ![Claude AI](https://img.shields.io/badge/Claude_AI-%23FFD700.svg?style=for-the-badge&logo=anthropic&logoColor=black)  ![Jasper](https://img.shields.io/badge/Jasper-%236325CC.svg?style=for-the-badge&logo=jasper&logoColor=white)  ![Copy.ai](https://img.shields.io/badge/Copy.ai-%2300C4CC.svg?style=for-the-badge&logo=copy.ai&logoColor=white)  ![Writesonic](https://img.shields.io/badge/Writesonic-%232020FF.svg?style=for-the-badge&logo=writesonic&logoColor=white)  ![Quillbot](https://img.shields.io/badge/Quillbot-%2300B300.svg?style=for-the-badge&logo=quillbot&logoColor=white)  
 
-## **🎨 AI Design & Image Generation**  
+### **🎨 AI Design & Image Generation**  
 ![DALL·E](https://img.shields.io/badge/DALL·E-%2300A67E.svg?style=for-the-badge&logo=openai&logoColor=white)  ![MidJourney](https://img.shields.io/badge/MidJourney-%2300599C.svg?style=for-the-badge&logo=midjourney&logoColor=white)  ![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-%23FF6347.svg?style=for-the-badge&logo=stablediffusion&logoColor=white)  ![Runway ML](https://img.shields.io/badge/Runway_ML-%23008080.svg?style=for-the-badge&logo=runwayml&logoColor=white)  ![Canva AI](https://img.shields.io/badge/Canva_AI-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)  ![Deep Dream Generator](https://img.shields.io/badge/Deep_Dream_Generator-%23FF1493.svg?style=for-the-badge&logo=deepdream&logoColor=white)  
 
-## **🎥 AI Video & Animation**  
+### **🎥 AI Video & Animation**  
 ![Runway Gen-2](https://img.shields.io/badge/Runway_Gen--2-%23008080.svg?style=for-the-badge&logo=runwayml&logoColor=white)  ![Pika Labs](https://img.shields.io/badge/Pika_Labs-%23FF5733.svg?style=for-the-badge&logo=pika&logoColor=white)  ![Synthesia](https://img.shields.io/badge/Synthesia-%231E90FF.svg?style=for-the-badge&logo=synthesia&logoColor=white)  ![HeyGen](https://img.shields.io/badge/HeyGen-%23FFD700.svg?style=for-the-badge&logo=heygen&logoColor=black)  ![Kaiber](https://img.shields.io/badge/Kaiber-%23FF4500.svg?style=for-the-badge&logo=kaiber&logoColor=white)  
 
-## **🎵 AI Music & Audio**  
+### **🎵 AI Music & Audio**  
 ![AIVA](https://img.shields.io/badge/AIVA-%23008B8B.svg?style=for-the-badge&logo=aiva&logoColor=white)  ![Soundraw](https://img.shields.io/badge/Soundraw-%23FF5733.svg?style=for-the-badge&logo=soundraw&logoColor=white)  ![Beatoven](https://img.shields.io/badge/Beatoven-%231E90FF.svg?style=for-the-badge&logo=beatoven&logoColor=white)  ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-%23000000.svg?style=for-the-badge&logo=elevenlabs&logoColor=white)  ![Descript](https://img.shields.io/badge/Descript-%23008B8B.svg?style=for-the-badge&logo=descript&logoColor=white)  
 
-## **🧑‍💼 AI Productivity & Workflows**  
+### **🧑‍💼 AI Productivity & Workflows**  
 ![Notion AI](https://img.shields.io/badge/Notion_AI-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  ![Grammarly](https://img.shields.io/badge/Grammarly-%2300C853.svg?style=for-the-badge&logo=grammarly&logoColor=white)  ![Otter.ai](https://img.shields.io/badge/Otter.ai-%232020FF.svg?style=for-the-badge&logo=otter&logoColor=white)  ![Fireflies.ai](https://img.shields.io/badge/Fireflies.ai-%23FF4500.svg?style=for-the-badge&logo=fireflies&logoColor=white)  ![Zapier AI](https://img.shields.io/badge/Zapier_AI-%23FF9800.svg?style=for-the-badge&logo=zapier&logoColor=white)  
 
-## **📈 AI Analytics & Data Science**  
+### **📈 AI Analytics & Data Science**  
 ![ChatGPT Code Interpreter](https://img.shields.io/badge/ChatGPT_Code_Interpreter-%2300A67E.svg?style=for-the-badge&logo=openai&logoColor=white)  ![DataRobot](https://img.shields.io/badge/DataRobot-%231E90FF.svg?style=for-the-badge&logo=datarobot&logoColor=white)  ![MonkeyLearn](https://img.shields.io/badge/MonkeyLearn-%23FFD700.svg?style=for-the-badge&logo=monkeylearn&logoColor=black)  ![BigML](https://img.shields.io/badge/BigML-%23008B8B.svg?style=for-the-badge&logo=bigml&logoColor=white)  ![Tableau AI](https://img.shields.io/badge/Tableau_AI-%23FF4500.svg?style=for-the-badge&logo=tableau&logoColor=white)  
 
-## **🛠 AI Development & Coding**  
+### **🛠 AI Development & Coding**  
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  ![Codeium](https://img.shields.io/badge/Codeium-%230072C6.svg?style=for-the-badge&logo=codeium&logoColor=white)  ![Tabnine](https://img.shields.io/badge/Tabnine-%236325CC.svg?style=for-the-badge&logo=tabnine&logoColor=white)  ![CodiumAI](https://img.shields.io/badge/CodiumAI-%23FF4500.svg?style=for-the-badge&logo=codiumai&logoColor=white)  
 
-## **🤖 AI Chatbots & Customer Support**  
+### **🤖 AI Chatbots & Customer Support**  
 ![LivePerson](https://img.shields.io/badge/LivePerson-%23FF5733.svg?style=for-the-badge&logo=liveperson&logoColor=white)  ![Tidio](https://img.shields.io/badge/Tidio-%231E90FF.svg?style=for-the-badge&logo=tidio&logoColor=white)  ![Drift](https://img.shields.io/badge/Drift-%23FFD700.svg?style=for-the-badge&logo=drift&logoColor=black)  ![Intercom AI](https://img.shields.io/badge/Intercom_AI-%23008080.svg?style=for-the-badge&logo=intercom&logoColor=white)  
 
 
@@ -249,7 +249,7 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 
 
 
-## 🌟 Contributors
+### 🌟 Contributors
 
 We want to give a huge shoutout to everyone who has contributed to the project! 🙌 Your hard work and dedication help make these repo's better every day. 💪
 
@@ -261,7 +261,7 @@ We want to give a huge shoutout to everyone who has contributed to the project! 
 
 ---
 
-  ## 💰 You can help me by Donating
+  ### 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/RohanNaagar) 
 
 
