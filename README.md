@@ -1,8 +1,9 @@
+---
 <p align="center">
   <img src="https://media.giphy.com/media/axnFGXT6MzvgY/giphy.gif?cid=ecf05e47e5x91hiivbgxkbk6jnzeujoaypfsczao4m013sbe&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="width:100vw; height:30vh; object-fit:cover;">
 </p>
 
-
+---
 
 # 👋 Hi, I'm Rohan Naagar    
 I'm Rohan Naagar, a cybersecurity engineer and tech enthusiast! 🚀
@@ -270,5 +271,11 @@ We want to give a huge shoutout to everyone who has contributed to the project! 
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/RohanNaagar) 
 
 
+---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif?cid=ecf05e47r62fulhp6cok1yzysxbuov3jbb43x5584js3alhk&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="width:100vw; height:30vh; object-fit:cover;">
+</p>
+
+---
 
