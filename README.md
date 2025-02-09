@@ -206,19 +206,13 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 
 
 #### **🖥️ AI Development & Coding**  
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Codeium](https://img.shields.io/badge/Codeium-5C6BC0?style=for-the-badge&logo=code&logoColor=white)  
-![Tabnine](https://img.shields.io/badge/Tabnine-0088CC?style=for-the-badge&logo=ai&logoColor=white)  
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white)  ![Codeium](https://img.shields.io/badge/Codeium-5C6BC0?style=for-the-badge&logo=code&logoColor=white)  ![Tabnine](https://img.shields.io/badge/Tabnine-0088CC?style=for-the-badge&logo=ai&logoColor=white)  
 
 #### **✍️ AI Writing & Content**  
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)  
-![Jasper](https://img.shields.io/badge/Jasper-9C27B0?style=for-the-badge&logo=ai&logoColor=white)  
-![Grammarly](https://img.shields.io/badge/Grammarly-4CAF50?style=for-the-badge&logo=grammarly&logoColor=white)  
+![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)  ![Jasper](https://img.shields.io/badge/Jasper-9C27B0?style=for-the-badge&logo=ai&logoColor=white)  ![Grammarly](https://img.shields.io/badge/Grammarly-4CAF50?style=for-the-badge&logo=grammarly&logoColor=white)  
 
 #### **🎨 AI Design & Image Generation**  
-![DALL·E](https://img.shields.io/badge/DALL·E-FF5722?style=for-the-badge&logo=openai&logoColor=white)  
-![MidJourney](https://img.shields.io/badge/MidJourney-673AB7?style=for-the-badge&logo=ai&logoColor=white)  
-![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-3F51B5?style=for-the-badge&logo=ai&logoColor=white)  
+![DALL·E](https://img.shields.io/badge/DALL·E-FF5722?style=for-the-badge&logo=openai&logoColor=white)  ![MidJourney](https://img.shields.io/badge/MidJourney-673AB7?style=for-the-badge&logo=ai&logoColor=white)  ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-3F51B5?style=for-the-badge&logo=ai&logoColor=white)  
 
 
 # 📊 GitHub Stats:
