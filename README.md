@@ -203,7 +203,7 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 ![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 
 
-#💡 AI-Powered Tools 
+# 💡 AI-Powered Tools:
 
 #### **🔍 AI Search & Research**  
 ![Perplexity AI](https://img.shields.io/badge/Perplexity_AI-%230A0A0A.svg?style=for-the-badge&logo=perplexity&logoColor=white)  ![Elicit](https://img.shields.io/badge/Elicit-%230072C6.svg?style=for-the-badge&logo=elicit&logoColor=white)  ![Consensus](https://img.shields.io/badge/Consensus-%23FF4500.svg?style=for-the-badge&logo=consensus&logoColor=white)  
