@@ -238,6 +238,9 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 ### **🤖 AI Chatbots & Customer Support**  
 ![LivePerson](https://img.shields.io/badge/LivePerson-%23FF5733.svg?style=for-the-badge&logo=liveperson&logoColor=white)  ![Tidio](https://img.shields.io/badge/Tidio-%231E90FF.svg?style=for-the-badge&logo=tidio&logoColor=white)  ![Drift](https://img.shields.io/badge/Drift-%23FFD700.svg?style=for-the-badge&logo=drift&logoColor=black)  ![Intercom AI](https://img.shields.io/badge/Intercom_AI-%23008080.svg?style=for-the-badge&logo=intercom&logoColor=white)  
 
+## ⚠️ Disclaimer  
+
+>> 🛠 **Note:** The technologies and tools mentioned in my profile, projects, or discussions are for reference purposes only. While I have experience working with them and am familiar with their functionalities, I do not claim to be an expert or a certified professional in all of them. My knowledge is based on practical exposure and hands-on usage rather than formal mastery. Please consider this when evaluating my technical skills. 🚀🔍 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RohanCyberOps&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)
