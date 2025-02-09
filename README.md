@@ -240,8 +240,8 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RohanCyberOps&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RohanCyberOps&theme=flag-india&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=RohanCyberOps&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=RohanCyberOps&theme=flag-india&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanCyberOps&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # ✍️ Random Dev Quote
