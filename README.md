@@ -202,17 +202,35 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 
-### 🤖 **Ai Tools:**
 
+#**💡 AI-Powered Tools**  
 
-#### **🖥️ AI Development & Coding**  
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white)  ![Codeium](https://img.shields.io/badge/Codeium-5C6BC0?style=for-the-badge&logo=code&logoColor=white)  ![Tabnine](https://img.shields.io/badge/Tabnine-0088CC?style=for-the-badge&logo=ai&logoColor=white)  
+#### **🔍 AI Search & Research**  
+![Perplexity AI](https://img.shields.io/badge/Perplexity_AI-%230A0A0A.svg?style=for-the-badge&logo=perplexity&logoColor=white)  ![Elicit](https://img.shields.io/badge/Elicit-%230072C6.svg?style=for-the-badge&logo=elicit&logoColor=white)  ![Consensus](https://img.shields.io/badge/Consensus-%23FF4500.svg?style=for-the-badge&logo=consensus&logoColor=white)  
 
-#### **✍️ AI Writing & Content**  
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)  ![Jasper](https://img.shields.io/badge/Jasper-9C27B0?style=for-the-badge&logo=ai&logoColor=white)  ![Grammarly](https://img.shields.io/badge/Grammarly-4CAF50?style=for-the-badge&logo=grammarly&logoColor=white)  
+#### **✍️ AI Writing & Content Creation**  
+![ChatGPT](https://img.shields.io/badge/ChatGPT-%2300A67E.svg?style=for-the-badge&logo=openai&logoColor=white)  ![Claude AI](https://img.shields.io/badge/Claude_AI-%23FFD700.svg?style=for-the-badge&logo=anthropic&logoColor=black)  ![Jasper](https://img.shields.io/badge/Jasper-%236325CC.svg?style=for-the-badge&logo=jasper&logoColor=white)  ![Copy.ai](https://img.shields.io/badge/Copy.ai-%2300C4CC.svg?style=for-the-badge&logo=copy.ai&logoColor=white)  ![Writesonic](https://img.shields.io/badge/Writesonic-%232020FF.svg?style=for-the-badge&logo=writesonic&logoColor=white)  ![Quillbot](https://img.shields.io/badge/Quillbot-%2300B300.svg?style=for-the-badge&logo=quillbot&logoColor=white)  
 
 #### **🎨 AI Design & Image Generation**  
-![DALL·E](https://img.shields.io/badge/DALL·E-FF5722?style=for-the-badge&logo=openai&logoColor=white)  ![MidJourney](https://img.shields.io/badge/MidJourney-673AB7?style=for-the-badge&logo=ai&logoColor=white)  ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-3F51B5?style=for-the-badge&logo=ai&logoColor=white)  
+![DALL·E](https://img.shields.io/badge/DALL·E-%2300A67E.svg?style=for-the-badge&logo=openai&logoColor=white)  ![MidJourney](https://img.shields.io/badge/MidJourney-%2300599C.svg?style=for-the-badge&logo=midjourney&logoColor=white)  ![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-%23FF6347.svg?style=for-the-badge&logo=stablediffusion&logoColor=white)  ![Runway ML](https://img.shields.io/badge/Runway_ML-%23008080.svg?style=for-the-badge&logo=runwayml&logoColor=white)  ![Canva AI](https://img.shields.io/badge/Canva_AI-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)  ![Deep Dream Generator](https://img.shields.io/badge/Deep_Dream_Generator-%23FF1493.svg?style=for-the-badge&logo=deepdream&logoColor=white)  
+
+#### **🎥 AI Video & Animation**  
+![Runway Gen-2](https://img.shields.io/badge/Runway_Gen--2-%23008080.svg?style=for-the-badge&logo=runwayml&logoColor=white)  ![Pika Labs](https://img.shields.io/badge/Pika_Labs-%23FF5733.svg?style=for-the-badge&logo=pika&logoColor=white)  ![Synthesia](https://img.shields.io/badge/Synthesia-%231E90FF.svg?style=for-the-badge&logo=synthesia&logoColor=white)  ![HeyGen](https://img.shields.io/badge/HeyGen-%23FFD700.svg?style=for-the-badge&logo=heygen&logoColor=black)  ![Kaiber](https://img.shields.io/badge/Kaiber-%23FF4500.svg?style=for-the-badge&logo=kaiber&logoColor=white)  
+
+#### **🎵 AI Music & Audio**  
+![AIVA](https://img.shields.io/badge/AIVA-%23008B8B.svg?style=for-the-badge&logo=aiva&logoColor=white)  ![Soundraw](https://img.shields.io/badge/Soundraw-%23FF5733.svg?style=for-the-badge&logo=soundraw&logoColor=white)  ![Beatoven](https://img.shields.io/badge/Beatoven-%231E90FF.svg?style=for-the-badge&logo=beatoven&logoColor=white)  ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-%23000000.svg?style=for-the-badge&logo=elevenlabs&logoColor=white)  ![Descript](https://img.shields.io/badge/Descript-%23008B8B.svg?style=for-the-badge&logo=descript&logoColor=white)  
+
+#### **🧑‍💼 AI Productivity & Workflows**  
+![Notion AI](https://img.shields.io/badge/Notion_AI-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  ![Grammarly](https://img.shields.io/badge/Grammarly-%2300C853.svg?style=for-the-badge&logo=grammarly&logoColor=white)  ![Otter.ai](https://img.shields.io/badge/Otter.ai-%232020FF.svg?style=for-the-badge&logo=otter&logoColor=white)  ![Fireflies.ai](https://img.shields.io/badge/Fireflies.ai-%23FF4500.svg?style=for-the-badge&logo=fireflies&logoColor=white)  ![Zapier AI](https://img.shields.io/badge/Zapier_AI-%23FF9800.svg?style=for-the-badge&logo=zapier&logoColor=white)  
+
+#### **📈 AI Analytics & Data Science**  
+![ChatGPT Code Interpreter](https://img.shields.io/badge/ChatGPT_Code_Interpreter-%2300A67E.svg?style=for-the-badge&logo=openai&logoColor=white)  ![DataRobot](https://img.shields.io/badge/DataRobot-%231E90FF.svg?style=for-the-badge&logo=datarobot&logoColor=white)  ![MonkeyLearn](https://img.shields.io/badge/MonkeyLearn-%23FFD700.svg?style=for-the-badge&logo=monkeylearn&logoColor=black)  ![BigML](https://img.shields.io/badge/BigML-%23008B8B.svg?style=for-the-badge&logo=bigml&logoColor=white)  ![Tableau AI](https://img.shields.io/badge/Tableau_AI-%23FF4500.svg?style=for-the-badge&logo=tableau&logoColor=white)  
+
+#### **🛠 AI Development & Coding**  
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  ![Codeium](https://img.shields.io/badge/Codeium-%230072C6.svg?style=for-the-badge&logo=codeium&logoColor=white)  ![Tabnine](https://img.shields.io/badge/Tabnine-%236325CC.svg?style=for-the-badge&logo=tabnine&logoColor=white)  ![CodiumAI](https://img.shields.io/badge/CodiumAI-%23FF4500.svg?style=for-the-badge&logo=codiumai&logoColor=white)  
+
+#### **🤖 AI Chatbots & Customer Support**  
+![LivePerson](https://img.shields.io/badge/LivePerson-%23FF5733.svg?style=for-the-badge&logo=liveperson&logoColor=white)  ![Tidio](https://img.shields.io/badge/Tidio-%231E90FF.svg?style=for-the-badge&logo=tidio&logoColor=white)  ![Drift](https://img.shields.io/badge/Drift-%23FFD700.svg?style=for-the-badge&logo=drift&logoColor=black)  ![Intercom AI](https://img.shields.io/badge/Intercom_AI-%23008080.svg?style=for-the-badge&logo=intercom&logoColor=white)  
 
 
 # 📊 GitHub Stats:
