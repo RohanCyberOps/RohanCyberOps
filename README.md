@@ -21,8 +21,34 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 ⚡ Nothing is finite<br>
 📍 Gurugram, Haryana<br>
 
-# 🌐 Socials:
-[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:Rohan150907@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/919466386495)  [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/chrohangurjar)  [![SMS](https://img.shields.io/badge/SMS-0A74DA.svg?logo=sms&logoColor=white)](sms:+919466386495)  [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/rohannaagar666)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/GtmzfW5Wap)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/rohannaagar66)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/rohannaagar01/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-naagar-779310322/)  [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28312314/rohan)  [![Google Developers](https://img.shields.io/badge/Google%20Developers-%234285F4.svg?logo=google&logoColor=white)](https://developers.google.com/profile/u/RohanCyberOps)  [![Commudle](https://img.shields.io/badge/Commudle-%23F9A602.svg?logo=google-chrome&logoColor=white)](https://www.commudle.com/users/chrohangurjar)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/user/chrohangurjar/)  [![HackenProof](https://img.shields.io/badge/HackenProof-%230F4C75.svg?logo=hacken&logoColor=white)](https://hackenproof.com/hackers/RohanCyberOps)  [![Threads](https://img.shields.io/badge/Threads-%2300A2FF.svg?logo=threads&logoColor=white)](https://threads.net/rohannaagar01)  [![Bluesky](https://img.shields.io/badge/Bluesky-%230099FF.svg?logo=bluesky&logoColor=white)](https://bsky.app/profile/rohancyberops.bsky.social)  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)](https://tiktok.com/@rohancyberops)  [![Tumblr](https://img.shields.io/badge/Tumblr-%234C4C4C.svg?logo=tumblr&logoColor=white)](https://rohancyberops.tumblr.com)  [![Mastodon](https://img.shields.io/badge/Mastodon-%2386A7F5.svg?logo=mastodon&logoColor=white)](https://mastodon.social/@RohanCyberOps)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/RohanCyberOps)  [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=twitch&logoColor=white)](https://twitch.tv/chrohangurjar)  [![Vimeo](https://img.shields.io/badge/Vimeo-%2316A9FF.svg?logo=vimeo&logoColor=white)](https://vimeo.com/user234875769)  [![TripIt](https://img.shields.io/badge/TripIt-%2300A9E0.svg?logo=tripit&logoColor=white)](https://tripit.com/people/rohan150907)  [![Calendly](https://img.shields.io/badge/Calendly-%23003A8C.svg?logo=calendly&logoColor=white)](https://calendly.com/rohan150907)
+
+## 📧 **Contact**  
+[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:Rohan150907@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/919466386495)  [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/chrohangurjar)  [![SMS](https://img.shields.io/badge/SMS-0A74DA.svg?logo=sms&logoColor=white)](sms:+919466386495)  
+
+
+## 🌍 **Social Media**  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/rohannaagar66)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/rohannaagar01/)  [![Threads](https://img.shields.io/badge/Threads-%2300A2FF.svg?logo=threads&logoColor=white)](https://threads.net/rohannaagar01)  [![Bluesky](https://img.shields.io/badge/Bluesky-%230099FF.svg?logo=bluesky&logoColor=white)](https://bsky.app/profile/rohancyberops.bsky.social)  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)](https://tiktok.com/@rohancyberops)  [![Tumblr](https://img.shields.io/badge/Tumblr-%234C4C4C.svg?logo=tumblr&logoColor=white)](https://rohancyberops.tumblr.com)  [![Mastodon](https://img.shields.io/badge/Mastodon-%2386A7F5.svg?logo=mastodon&logoColor=white)](https://mastodon.social/@RohanCyberOps)  [![VK](https://img.shields.io/badge/VK-%23007BFF.svg?logo=vk&logoColor=white)](https://vk.com/id1025866810)  [![Odnoklassniki](https://img.shields.io/badge/Odnoklassniki-%23F4731C.svg?logo=odnoklassniki&logoColor=white)](https://ok.ru/profile/910071404052)  
+
+
+## 🐦 **Microblogging & Forums**  
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/rohannaagar666)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/user/chrohangurjar/)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/GtmzfW5Wap)  
+
+
+## 🏆 **Professional & Developer Platforms**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-naagar-779310322/)  [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28312314/rohan)  [![Google Developers](https://img.shields.io/badge/Google%20Developers-%234285F4.svg?logo=google&logoColor=white)](https://developers.google.com/profile/u/RohanCyberOps)  [![HackenProof](https://img.shields.io/badge/HackenProof-%230F4C75.svg?logo=hacken&logoColor=white)](https://hackenproof.com/hackers/RohanCyberOps)  [![Commudle](https://img.shields.io/badge/Commudle-%23F9A602.svg?logo=google-chrome&logoColor=white)](https://www.commudle.com/users/chrohangurjar)  
+
+
+## 💻 **Developer & Open Source**  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/RohanCyberOps)  
+
+
+## 🎮 **Streaming & Video Platforms**  
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=twitch&logoColor=white)](https://twitch.tv/chrohangurjar)  [![Vimeo](https://img.shields.io/badge/Vimeo-%2316A9FF.svg?logo=vimeo&logoColor=white)](https://vimeo.com/user234875769)  
+
+
+
+## 📅 **Productivity & Scheduling**  
+[![TripIt](https://img.shields.io/badge/TripIt-%2300A9E0.svg?logo=tripit&logoColor=white)](https://tripit.com/people/rohan150907)  [![Calendly](https://img.shields.io/badge/Calendly-%23003A8C.svg?logo=calendly&logoColor=white)](https://calendly.com/rohan150907)  
 
 
 # 💻 Tech Stack:
