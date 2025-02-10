@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 
 
 ## 🐦 **Microblogging & Forums**  
-[![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/rohannaagar666)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/user/RohanCyberOps/)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/GtmzfW5Wap)  
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/rohannaagar666)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/user/chrohangurjar/)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/GtmzfW5Wap)  
 
 
 ## 🏆 **Professional & Developer Platforms**  
