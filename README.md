@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 
 
 ## 📧 **Contact**  
-[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:Rohan150907@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/919466386495)  [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/chrohangurjar)  [![SMS](https://img.shields.io/badge/SMS-0A74DA.svg?logo=sms&logoColor=white)](sms:+919466386495)  
+[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:Rohan150907@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/919466386495)  [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/RohanCyberOps)  [![SMS](https://img.shields.io/badge/SMS-0A74DA.svg?logo=sms&logoColor=white)](sms:+919466386495)  
 
 
 ## 🌍 **Social Media**  
@@ -31,11 +31,11 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 
 
 ## 🐦 **Microblogging & Forums**  
-[![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/rohannaagar666)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/user/chrohangurjar/)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/GtmzfW5Wap)  
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/rohannaagar666)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/user/RohanCyberOps/)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/GtmzfW5Wap)  
 
 
 ## 🏆 **Professional & Developer Platforms**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-naagar-779310322/)  [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28312314/rohan)  [![Google Developers](https://img.shields.io/badge/Google%20Developers-%234285F4.svg?logo=google&logoColor=white)](https://developers.google.com/profile/u/RohanCyberOps)  [![HackenProof](https://img.shields.io/badge/HackenProof-%230F4C75.svg?logo=hacken&logoColor=white)](https://hackenproof.com/hackers/RohanCyberOps)  [![Commudle](https://img.shields.io/badge/Commudle-%23F9A602.svg?logo=google-chrome&logoColor=white)](https://www.commudle.com/users/chrohangurjar)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-naagar-779310322/)  [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28312314/rohan)  [![Google Developers](https://img.shields.io/badge/Google%20Developers-%234285F4.svg?logo=google&logoColor=white)](https://developers.google.com/profile/u/RohanCyberOps)  [![HackenProof](https://img.shields.io/badge/HackenProof-%230F4C75.svg?logo=hacken&logoColor=white)](https://hackenproof.com/hackers/RohanCyberOps)  [![Commudle](https://img.shields.io/badge/Commudle-%23F9A602.svg?logo=google-chrome&logoColor=white)](https://www.commudle.com/users/RohanCyberOps)  
 
 
 ## 💻 **Developer & Open Source**  
@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 
 
 ## 🎮 **Streaming & Video Platforms**  
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=twitch&logoColor=white)](https://twitch.tv/chrohangurjar)  [![Vimeo](https://img.shields.io/badge/Vimeo-%2316A9FF.svg?logo=vimeo&logoColor=white)](https://vimeo.com/user234875769)  
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=twitch&logoColor=white)](https://twitch.tv/RohanCyberOps)  [![Vimeo](https://img.shields.io/badge/Vimeo-%2316A9FF.svg?logo=vimeo&logoColor=white)](https://vimeo.com/user234875769)  
 
 
 
@@ -288,8 +288,8 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 
 We want to give a huge shoutout to everyone who has contributed to the project! 🙌 Your hard work and dedication help make these repo's better every day. 💪
 
-<a href="https://github.com/chrohangurjar/Rust-Weather--App/graphs/contributors">
-  <img alt="Rust-Weather-App contributors" height='48' src="https://contrib.rocks/image?repo=chrohangurjar/Rust-Weather-App&columns=24" />
+<a href="https://github.com/RohanCyberOps/Rust-Weather--App/graphs/contributors">
+  <img alt="Rust-Weather-App contributors" height='48' src="https://contrib.rocks/image?repo=RohanCyberOps/Rust-Weather-App&columns=24" />
 </a>
 
 🎉 Thank you all for your amazing contributions! Let's keep building together. 🚀
