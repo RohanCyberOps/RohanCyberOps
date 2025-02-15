@@ -269,9 +269,9 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 >> 🛠 **Note:** The technologies and tools mentioned in my profile, projects, or discussions are for reference purposes only. While I have experience working with them and am familiar with their functionalities, I do not claim to be an expert or a certified professional in all of them. My knowledge is based on practical exposure and hands-on usage rather than formal mastery. Please consider this when evaluating my technical skills. 🚀🔍 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RohanCyberOps&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=RohanCyberOps&theme=flag-india&hide_border=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanCyberOps&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=rohancyberops&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=rohancyberops&theme=flag-india&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohancyberops&theme=flag-india&hide_border=false&layout=compact&langs_count=20&count_private=true)
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
