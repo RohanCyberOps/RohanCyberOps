@@ -52,9 +52,6 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 
 
 # 💻 Tech Stack:
-Here’s how you can integrate the **Most Used Languages** statistics into your **Programming Languages** section with badges. I'll organize the languages based on their usage percentages and add the corresponding badges:
-
----
 
 ### **Programming Languages**
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
