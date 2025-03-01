@@ -22,9 +22,7 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 📍 Gurugram, Haryana<br>
 
 ## ⭕**Organization**  
-![AIΔ](https://img.shields.io/badge/AIΔ-000000.svg?style=for-the-badge&logo=github&logoColor=white)  
-![E=Rx²](https://img.shields.io/badge/E%3DRx²-000000.svg?style=for-the-badge&logo=github&logoColor=white)  
-![Tactical Zero](https://img.shields.io/badge/Tactical%20Zero-000000.svg?style=for-the-badge&logo=github&logoColor=white)  
+![AIΔ](https://img.shields.io/badge/AIΔ-FF9933.svg?style=for-the-badge&logo=github&logoColor=white)  ![E=Rx²](https://img.shields.io/badge/E%3DRx²-FFFFFF.svg?style=for-the-badge&logo=github&logoColor=000080)  ![Tactical Zero](https://img.shields.io/badge/Tactical%20Zero-138808.svg?style=for-the-badge&logo=github&logoColor=white)  
 
 ## 📧 **Contact**  
 [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:Rohan150907@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/919466386495)  [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/RohanCyberOps)  [![SMS](https://img.shields.io/badge/SMS-0A74DA.svg?logo=sms&logoColor=white)](sms:+919466386495)  
