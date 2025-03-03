@@ -21,12 +21,14 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 ⚡ Nothing is finite<br>
 📍 Gurugram, Haryana<br>
 
+## 🕸️ **Websites**   
+[![ZINCOR](https://img.shields.io/badge/ZINCOR-FFA500?style=flat-square&logo=github&logoColor=white&labelColor=FFA500)](https://zincor.github.io)  [![CYBEROPS](https://img.shields.io/badge/E=RX²-FFFFFF?style=flat-square&logo=github&logoColor=000080&labelColor=FFFFFF)](https://rohancyberops.github.io)  [![TACTICAL ZERO](https://img.shields.io/badge/TACTICAL%20ZERO-008000?style=flat-square&logo=github&logoColor=white&labelColor=008000)](https://tacticalzero.github.io)  
+
 ## ⭕**Organization**  
 ![ZINCOR](https://img.shields.io/badge/ZINCOR-FF9933.svg?style=for-the-badge&logo=github&logoColor=white)  ![E=Rx²](https://img.shields.io/badge/E%3DRx²-FFFFFF.svg?style=for-the-badge&logo=github&logoColor=000080)  ![Tactical Zero](https://img.shields.io/badge/Tactical%20Zero-138808.svg?style=for-the-badge&logo=github&logoColor=white)  
 
 ## 📧 **Contact**  
 [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:Rohan150907@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/919466386495)  [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/RohanCyberOps)  [![SMS](https://img.shields.io/badge/SMS-0A74DA.svg?logo=sms&logoColor=white)](sms:+919466386495)  
-
 
 ## 🌍 **Social Media**  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/rohannaagar66)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/rohannaagar01/)  [![Threads](https://img.shields.io/badge/Threads-%2300A2FF.svg?logo=threads&logoColor=white)](https://threads.net/rohannaagar01)  [![Bluesky](https://img.shields.io/badge/Bluesky-%230099FF.svg?logo=bluesky&logoColor=white)](https://bsky.app/profile/rohancyberops.bsky.social)  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)](https://tiktok.com/@rohancyberops)  [![Tumblr](https://img.shields.io/badge/Tumblr-%234C4C4C.svg?logo=tumblr&logoColor=white)](https://rohancyberops.tumblr.com)  [![Mastodon](https://img.shields.io/badge/Mastodon-%2386A7F5.svg?logo=mastodon&logoColor=white)](https://mastodon.social/@RohanCyberOps)  [![VK](https://img.shields.io/badge/VK-%23007BFF.svg?logo=vk&logoColor=white)](https://vk.com/id1025866810)  [![Odnoklassniki](https://img.shields.io/badge/Odnoklassniki-%23F4731C.svg?logo=odnoklassniki&logoColor=white)](https://ok.ru/profile/910071404052)  
