@@ -21,8 +21,9 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 ⚡ Nothing is finite<br>
 📍 Gurugram, Haryana<br>
 
+
 ## 🕸️ **Websites**   
-[![ZINCOR](https://img.shields.io/badge/ZINCOR-FFA500?style=flat-square&logo=github&logoColor=white&labelColor=FFA500)](https://zincor.github.io)  [![CYBEROPS](https://img.shields.io/badge/E=RX²-FFFFFF?style=flat-square&logo=github&logoColor=000080&labelColor=FFFFFF)](https://rohancyberops.github.io)  [![TACTICAL ZERO](https://img.shields.io/badge/TACTICAL%20ZERO-008000?style=flat-square&logo=github&logoColor=white&labelColor=008000)](https://tacticalzero.github.io)  
+[![ZINCOR](https://img.shields.io/badge/ZINCOR-FFA500?style=flat-square&logo=github&logoColor=white&labelColor=FFA500)](https://zincor.github.io)  [![CYBEROPS](https://img.shields.io/badge/CYBEROPS-FFFFFF?style=flat-square&logo=github&logoColor=000080&labelColor=FFFFFF)](https://rohancyberops.github.io)  [![TACTICAL ZERO](https://img.shields.io/badge/TACTICAL%20ZERO-008000?style=flat-square&logo=github&logoColor=white&labelColor=008000)](https://tacticalzero.github.io)  
 
 ## ⭕**Organization**  
 ![ZINCOR](https://img.shields.io/badge/ZINCOR-FF9933.svg?style=for-the-badge&logo=github&logoColor=white)  ![E=Rx²](https://img.shields.io/badge/E%3DRx²-FFFFFF.svg?style=for-the-badge&logo=github&logoColor=000080)  ![Tactical Zero](https://img.shields.io/badge/Tactical%20Zero-138808.svg?style=for-the-badge&logo=github&logoColor=white)  
