@@ -283,7 +283,10 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 
 ## ⚠️ Disclaimer  
 
->> 🛠 **Note:** The technologies and tools mentioned in my profile, projects, or discussions are for reference purposes only. While I have experience working with them and am familiar with their functionalities, I do not claim to be an expert or a certified professional in all of them. My knowledge is based on practical exposure and hands-on usage rather than formal mastery. Please consider this when evaluating my technical skills. 🚀🔍 
+>> 🛠 **Note:** The technologies and tools mentioned in my profile, projects, or discussions are for reference purposes only. While I have experience working with them and am familiar with their functionalities, I do not claim to be an expert or a certified professional in all of them. My knowledge is based on practical exposure and hands-on usage rather than formal mastery. Please consider this when evaluating my technical skills. 🚀🔍
+
+# 📊 Stats:
+<img src="https://tryhackme-badges.s3.amazonaws.com/rohan150907.png" alt="Try Hack Me" />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rohancyberops&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true)  
