@@ -44,8 +44,12 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 ## 💻 **Developer & Open Source**  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/RohanCyberOps)  
 
-## 😈 **Ethical Hacker* 
- [![HackenProof](https://img.shields.io/badge/HackenProof-%230F4C75.svg?logo=hacken&logoColor=white)](https://hackenproof.com/hackers/RohanCyberOps)
+## 😈 **Ethical Hacker**  
+[![HackenProof](https://img.shields.io/badge/HackenProof-%230F4C75.svg?logo=hacken&logoColor=white)](https://hackenproof.com/hackers/RohanCyberOps)
+[![HackerOne](https://img.shields.io/badge/HackerOne-%23181717.svg?logo=hackerone&logoColor=white)](https://hackerone.com/rohancyberops)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-%2300FF41.svg?logo=Hack%20The%20Box&logoColor=white)](https://app.hackthebox.com/profile/rohancyberops)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23FF0000.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/RohanCyberOps)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-%23F26822.svg?logo=bugcrowd&logoColor=white)](https://bugcrowd.com/rohancyberops)
 
 
 ## 🎮 **Streaming & Video Platforms**  
