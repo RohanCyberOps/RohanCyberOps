@@ -1,6 +1,6 @@
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/axnFGXT6MzvgY/giphy.gif?cid=ecf05e47e5x91hiivbgxkbk6jnzeujoaypfsczao4m013sbe&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="width:100vw; height:30vh; object-fit:cover;">
+  <img src="https://tenor.com/pZdW9Wm0Lii.gif" style="width:100vw; height:30vh; object-fit:cover;">
 </p>
 
 ---
