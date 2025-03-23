@@ -334,7 +334,7 @@ We want to give a huge shoutout to everyone who has contributed to the project! 
 ---
 
 <p align="center">
-  <img src="https://scitechdaily.com/images/Hacking-Cybersecurity.gif" style="width:100vw; height:30vh; object-fit:cover;">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTA3eWFka2lrYmY5NTlwcmJpd3hheGgyemU3emk4N2R1ZDR3dnd0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hun4DFmfnDId3lid5b/giphy.gif" style="width:100vw; height:30vh; object-fit:cover;">
 </p>
 
 ---
