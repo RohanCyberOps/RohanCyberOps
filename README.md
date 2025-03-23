@@ -4,7 +4,11 @@
 </p>
 
 ---
+[![RohanCyberOps](https://img.shields.io/badge/Github-CyberOps-%23181717.svg?logo=github&logoColor=white)](https://github.com/RohanCyberOps)  
+[![RohanDevOps](https://img.shields.io/badge/Github-DevOps-%232A2A2A.svg?logo=github&logoColor=white)](https://github.com/RohanDevOps)  
+[![Rohannaagar666](https://img.shields.io/badge/Github-RohanNaagar-%23333333.svg?logo=github&logoColor=white)](https://github.com/Rohannaagar666)  
 
+---
 # 👋 Hi, I'm Rohan Naagar    
 I'm Rohan Naagar, a cybersecurity engineer and tech enthusiast! 🚀
 
