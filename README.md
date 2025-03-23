@@ -1,6 +1,6 @@
 ---
 <p align="center">
-  <img src="https://tenor.com/pZdW9Wm0Lii.gif" style="width:100vw; height:30vh; object-fit:cover;">
+  <img src="https://media.gifdb.com/cyber-city-japanese-pixel-art-hi1b722064av1d10.gif" style="width:100vw; height:30vh; object-fit:cover;">
 </p>
 
 ---
