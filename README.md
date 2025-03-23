@@ -4,9 +4,7 @@
 </p>
 
 ---
-[![RohanCyberOps](https://img.shields.io/badge/Github-CyberOps-%23181717.svg?logo=github&logoColor=white)](https://github.com/RohanCyberOps)  
-[![RohanDevOps](https://img.shields.io/badge/Github-DevOps-%232A2A2A.svg?logo=github&logoColor=white)](https://github.com/RohanDevOps)  
-[![Rohannaagar666](https://img.shields.io/badge/Github-RohanNaagar-%23333333.svg?logo=github&logoColor=white)](https://github.com/Rohannaagar666)  
+[![RohanCyberOps](https://img.shields.io/badge/CyberOps-%23005BAC.svg?logo=github&logoColor=white)](https://github.com/RohanCyberOps)  [![RohanDevOps](https://img.shields.io/badge/DevOps-%23FFFFFF.svg?logo=github&logoColor=black)](https://github.com/RohanDevOps)  [![RohanNaagar](https://img.shields.io/badge/RohanNaagar-%23ED2939.svg?logo=github&logoColor=white)](https://github.com/Rohannaagar666)  
 
 ---
 # 👋 Hi, I'm Rohan Naagar    
