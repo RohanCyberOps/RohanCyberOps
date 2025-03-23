@@ -334,7 +334,7 @@ We want to give a huge shoutout to everyone who has contributed to the project! 
 ---
 
 <p align="center">
-  <img src="https://tenor.com/bnWwi.gif" style="width:100vw; height:30vh; object-fit:cover;">
+  <img src="https://scitechdaily.com/images/Hacking-Cybersecurity.gif" style="width:100vw; height:30vh; object-fit:cover;">
 </p>
 
 ---
