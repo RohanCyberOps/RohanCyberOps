@@ -26,15 +26,11 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 
 
 ## 🕸️ **Websites**  
-[![ZINCOR](https://img.shields.io/badge/ZINCOR-FFA500?style=flat-square&logo=github)](https://zincor.github.io)  
-[![CYBEROPS](https://img.shields.io/badge/CYBEROPS-FFFFFF?style=flat-square&logo=github)](https://rohancyberops.github.io)  
-[![TACTICAL ZERO](https://img.shields.io/badge/TACTICAL%20ZERO-008000?style=flat-square&logo=github)](https://tacticalzero.github.io)  [![CITY TECH COLLAB](https://img.shields.io/badge/CITY%20TECH%20COLLAB-<HEX_COLOR>?style=flat-square&logo=github&logoColor=white)](https://citytechcollab.github.io)
+[![ZINCOR](https://img.shields.io/badge/ZINCOR-FFA500?style=flat-square&logo=github)](https://zincor.github.io)  [![CYBEROPS](https://img.shields.io/badge/CYBEROPS-FFFFFF?style=flat-square&logo=github)](https://rohancyberops.github.io)  [![TACTICAL ZERO](https://img.shields.io/badge/TACTICAL%20ZERO-008000?style=flat-square&logo=github)](https://tacticalzero.github.io)  [![CITY TECH COLLAB](https://img.shields.io/badge/CITY%20TECH%20COLLAB-<HEX_COLOR>?style=flat-square&logo=github&logoColor=white)](https://citytechcollab.github.io)
 
 
 ## ⭕ **Organization**  
-[![ZINCOR](https://img.shields.io/badge/ZINCOR-0055A4?style=flat-square&logo=github)](https://zincor.github.io)  
-[![E=Rx²](https://img.shields.io/badge/E%3DRx²-FFFFFF?style=flat-square&logo=github)](https://rohancyberops.github.io)  
-[![TACTICAL ZERO](https://img.shields.io/badge/TACTICAL%20ZERO-EF4135?style=flat-square&logo=github)](https://tacticalzero.github.io)  [![CITY TECH COLLAB](https://img.shields.io/badge/CITY%20TECH%20COLLAB-<HEX_COLOR>?style=flat-square&logo=github&logoColor=white)](https://citytechcollab.github.io)
+[![ZINCOR](https://img.shields.io/badge/ZINCOR-0055A4?style=flat-square&logo=github)](https://zincor.github.io)  [![CYBER](https://img.shields.io/badge/E%3DRx²-FFFFFF?style=flat-square&logo=github)](https://rohancyberops.github.io)  [![TACTICAL ZERO](https://img.shields.io/badge/TACTICAL%20ZERO-EF4135?style=flat-square&logo=github)](https://tacticalzero.github.io)  [![CITY TECH COLLAB](https://img.shields.io/badge/CITY%20TECH%20COLLAB-<HEX_COLOR>?style=flat-square&logo=github&logoColor=white)](https://citytechcollab.github.io)
 
 
 ## 📧 **Contact**  
