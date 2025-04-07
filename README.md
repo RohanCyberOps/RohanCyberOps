@@ -25,11 +25,17 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 📍 Gurugram, Haryana<br>
 
 
-## 🕸️ **Websites**   
-[![ZINCOR](https://img.shields.io/badge/ZINCOR-FFA500?style=flat-square&logo=github&logoColor=white&labelColor=FFA500)](https://zincor.github.io)  [![CYBEROPS](https://img.shields.io/badge/CYBEROPS-FFFFFF?style=flat-square&logo=github&logoColor=000080&labelColor=FFFFFF)](https://rohancyberops.github.io)  [![TACTICAL ZERO](https://img.shields.io/badge/TACTICAL%20ZERO-008000?style=flat-square&logo=github&logoColor=white&labelColor=008000)](https://tacticalzero.github.io)  
+## 🕸️ **Websites**  
+[![ZINCOR](https://img.shields.io/badge/ZINCOR-FFA500?style=flat-square&logo=github)](https://zincor.github.io)  
+[![CYBEROPS](https://img.shields.io/badge/CYBEROPS-FFFFFF?style=flat-square&logo=github)](https://rohancyberops.github.io)  
+[![TACTICAL ZERO](https://img.shields.io/badge/TACTICAL%20ZERO-008000?style=flat-square&logo=github)](https://tacticalzero.github.io)  [![CITY TECH COLLAB](https://img.shields.io/badge/CITY%20TECH%20COLLAB-<HEX_COLOR>?style=flat-square&logo=github&logoColor=white)](https://citytechcollab.github.io)
 
-## ⭕**Organization**  
-[![ZINCOR](https://img.shields.io/badge/ZINCOR-0055A4?style=flat-square&logo=github&logoColor=white&labelColor=0055A4)](https://zincor.github.io)  [![E=Rx²](https://img.shields.io/badge/E%3DRx²-FFFFFF?style=flat-square&logo=github&logoColor=000000&labelColor=FFFFFF)](https://rohancyberops.github.io)  [![TACTICAL ZERO](https://img.shields.io/badge/TACTICAL%20ZERO-EF4135?style=flat-square&logo=github&logoColor=white&labelColor=EF4135)](https://tacticalzero.github.io)  
+
+## ⭕ **Organization**  
+[![ZINCOR](https://img.shields.io/badge/ZINCOR-0055A4?style=flat-square&logo=github)](https://zincor.github.io)  
+[![E=Rx²](https://img.shields.io/badge/E%3DRx²-FFFFFF?style=flat-square&logo=github)](https://rohancyberops.github.io)  
+[![TACTICAL ZERO](https://img.shields.io/badge/TACTICAL%20ZERO-EF4135?style=flat-square&logo=github)](https://tacticalzero.github.io)  [![CITY TECH COLLAB](https://img.shields.io/badge/CITY%20TECH%20COLLAB-<HEX_COLOR>?style=flat-square&logo=github&logoColor=white)](https://citytechcollab.github.io)
+
 
 ## 📧 **Contact**  
 [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:Rohan150907@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/919466386495)  [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/RohanCyberOps)  [![SMS](https://img.shields.io/badge/SMS-0A74DA.svg?logo=sms&logoColor=white)](sms:+919466386495)  
