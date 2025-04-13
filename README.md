@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 💬I'm Rohan Naagar<br>
 ⚡Work at -  <br>
 🤝 I’m looking for help with Algorithms.<br>
-👀  I’m currently learning Artificial intelligence(AI),Artificial General Intelligence (AGI), Machine Learning, Deep Learning, Natural Language Processing and Large Language Models.<br>
+👀  I’m currently learning Artificial intelligence(AI),Artificial General Intelligence (AGI), Machine Learning(ML), Deep Learning, Natural Language Processing(NLP) and Large Language Models(LLM).<br>
 🌱 Research Interests: Deep Learning, OpenCV, LLMs.<br>
 😊 Build technologies that increase the cumulative density of magic in the world!<br>
 ⚡ Nothing is finite<br>
