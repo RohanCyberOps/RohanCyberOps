@@ -326,7 +326,11 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 
 
 # 📊 Stats:
-<img src="https://tryhackme-badges.s3.amazonaws.com/RohanCyberOps.png" alt="Try Hack Me" />
+<a href="https://tryhackme.com/p/RohanCyberOps" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/RohanCyberOps.png" 
+         alt="TryHackMe Badge - RohanCyberOps" 
+         style="max-width: 100%; height: auto;" />
+</a>
 
 
 # 📊 GitHub Stats:
