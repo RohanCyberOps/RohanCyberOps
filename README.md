@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 📍 Gurugram, Haryana<br>
 
 ## 📨 **Fops Inc** 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yTn24kCQ) [![More](https://img.shields.io/badge/ZINCOR-0055A4?style=flat-square&logo=github)](ComingSoon)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yTn24kCQ) [![More](https://img.shields.io/badge/MORE-0055A4?style=flat-square&logo=Inc)](ComingSoon)
 
 ## 🕸️ **Websites**  
 [![ZINCOR](https://img.shields.io/badge/ZINCOR-FFA500?style=flat-square&logo=github)](https://zincor.github.io)  [![CYBEROPS](https://img.shields.io/badge/CYBEROPS-FFFFFF?style=flat-square&logo=github)](https://rohancyberops.github.io)  [![TACTICAL ZERO](https://img.shields.io/badge/TACTICAL%20ZERO-008000?style=flat-square&logo=github)](https://tacticalzero.github.io) [![CITY TECH COLLAB](https://img.shields.io/badge/CITY%20TECH%20COLLAB-0000FF?style=flat-square&logo=github&logoColor=white)](https://citytechcollab.github.io)
