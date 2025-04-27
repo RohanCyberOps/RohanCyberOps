@@ -328,12 +328,17 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 
 
 # 📊 Stats:
-<a href="https://tryhackme.com/p/RohanCyberOps" target="_blank">
+<a href="https://tryhackme.com/p/RohanCyberOps" target="_blank" rel="noopener noreferrer">
     <img src="https://tryhackme-badges.s3.amazonaws.com/RohanCyberOps.png" 
          alt="TryHackMe Badge - RohanCyberOps" 
-         style="max-width: 100%; height: auto;" />
+         style="max-width: 100%; height: auto; display: block; margin-bottom: 16px;">
 </a>
 
+<a href="https://app.hackthebox.com/profile/2313221" target="_blank" rel="noopener noreferrer">
+    <img src="https://app.hackthebox.com/profile/2313221.png" 
+         alt="Hack The Box - RohanCyberOps" 
+         style="max-width: 100%; height: auto; display: block;">
+</a>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rohancyberops&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true)  
