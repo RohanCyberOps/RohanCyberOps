@@ -365,7 +365,7 @@ We want to give a huge shoutout to everyone who has contributed to the project! 
   <img alt="Rust-Weather-App contributors" height='48' src="https://contrib.rocks/image?repo=RohanCyberOps/Rust-Weather-App&columns=24" />
 </a>
 
-🎉 Thank you all for your amazing contributions! Let's keep building together. 🚀
+🎉 Thank you all for your amazing contributions! Let's keep building together. 
 
 ---
 
