@@ -341,6 +341,7 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
     </a>
 </div>
 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rohancyberops&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rohancyberops&theme=flag-india&hide_border=false)  
@@ -359,13 +360,14 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 
 ### 🌟 Contributors
 
-We want to give a huge shoutout to everyone who has contributed to the project! 🙌 Your hard work and dedication help make these repo's better every day. 💪
+We extend our sincere appreciation to all individuals who have contributed to this project. Your commitment and effort play a pivotal role in enhancing the quality and functionality of this repository.
 
 <a href="https://github.com/RohanCyberOps/Rust-Weather--App/graphs/contributors">
-  <img alt="Rust-Weather-App contributors" height='48' src="https://contrib.rocks/image?repo=RohanCyberOps/Rust-Weather-App&columns=24" />
+  <img alt="Rust-Weather-App contributors" height="48" src="https://contrib.rocks/image?repo=RohanCyberOps/Rust-Weather-App&columns=24" />
 </a>
 
-🎉 Thank you all for your amazing contributions! Let's keep building together. 
+Thank you for your valuable contributions. Let us continue to innovate and build—together.
+
 
 ---
 
