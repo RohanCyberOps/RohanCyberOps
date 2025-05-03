@@ -306,23 +306,23 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 
 
 ## 📛 Badges 
-<!-- Programming Languages -->
+
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
 ![Java](https://img.shields.io/badge/Java-Advanced-red)
 ![C++](https://img.shields.io/badge/C++-Intermediate-yellow)
 ![Go](https://img.shields.io/badge/Go-Intermediate-brightgreen)
 ![Rust](https://img.shields.io/badge/Rust-Learning-orange)
 
-<!-- Web Technologies -->
+
 ![HTML5](https://img.shields.io/badge/HTML5-Advanced-orange)
 ![CSS3](https://img.shields.io/badge/CSS3-Advanced-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 
-<!-- Cybersecurity -->
+
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Enthusiast-critical)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-green)
 
-<!-- AI & AGI -->
+
 ![AI](https://img.shields.io/badge/AI-Focused-9cf)
 ![AGI](https://img.shields.io/badge/AGI-Research%20Interest-blueviolet)
 
