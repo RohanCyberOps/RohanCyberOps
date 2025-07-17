@@ -32,7 +32,7 @@ Fops Inc
 ├── ☁️ Cloud Development  
 │   └── [![Unity Cloud](https://img.shields.io/badge/Unity%20Cloud-000000?style=flat&logo=unity&logoColor=white)](https://cloud.unity.com/home/organizations/13469805405389)  
 ├── 📸 Social Media  
-│   └── [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/rdco01)  
+│   └── [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rdco01)  
 └── 🔗 More (Coming Soon)  
     └── [![More](https://img.shields.io/badge/MORE-0055A4?style=flat-square&logo=Inc)](#)
 
