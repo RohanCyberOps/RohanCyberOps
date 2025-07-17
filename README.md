@@ -24,11 +24,21 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 ⚡ Nothing is finite<br>
 📍 Gurugram, Haryana<br>
 
-## 📨 **Fops Inc** 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yTn24kCQ) [![Unity Cloud](https://img.shields.io/badge/Unity%20Cloud-000000?style=flat&logo=unity&logoColor=white)](https://cloud.unity.com/home/organizations/13469805405389) [![More](https://img.shields.io/badge/MORE-0055A4?style=flat-square&logo=Inc)](ComingSoon)
+## 🌳 Fops Inc – Network Structure
+
+Fops Inc  
+├── 📢 Community  
+│   └── [![Discord](https://img.shields.io/badge/Discord-%237289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/yTn24kCQ)  
+├── ☁️ Cloud Development  
+│   └── [![Unity Cloud](https://img.shields.io/badge/Unity%20Cloud-000000?style=flat&logo=unity&logoColor=white)](https://cloud.unity.com/home/organizations/13469805405389)  
+├── 📸 Social Media  
+│   └── [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/rdco01)  
+└── 🔗 More (Coming Soon)  
+    └── [![More](https://img.shields.io/badge/MORE-0055A4?style=flat-square&logo=Inc)](#)
 
 > _Thank you for your interest and support!_  
 > _— The Development Team_
+
 
 ## 🕸️ **Websites**  
 [![ZINCOR](https://img.shields.io/badge/ZINCOR-FFA500?style=flat-square&logo=github)](https://zincor.github.io)  [![CYBEROPS](https://img.shields.io/badge/CYBEROPS-FFFFFF?style=flat-square&logo=github)](https://rohancyberops.github.io)  [![TACTICAL ZERO](https://img.shields.io/badge/TACTICAL%20ZERO-008000?style=flat-square&logo=github)](https://tacticalzero.github.io) [![CITY TECH COLLAB](https://img.shields.io/badge/CITY%20TECH%20COLLAB-0000FF?style=flat-square&logo=github&logoColor=white)](https://citytechcollab.github.io)
