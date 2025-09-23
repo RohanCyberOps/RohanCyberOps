@@ -330,8 +330,7 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
         <img src="https://tryhackme-badges.s3.amazonaws.com/RohanCyberOps.png" 
              alt="TryHackMe Badge - RohanCyberOps" 
              style="max-width: 300px; width: 50%; height: auto;">
-    </a>
-    <a href="https://app.hackthebox.com/profile/2313221" target="_blank" rel="noopener noreferrer">
+    </a> <a href="https://app.hackthebox.com/profile/2313221" target="_blank" rel="noopener noreferrer">
         <img src="https://www.hackthebox.com/badge/image/2313221.png" 
              alt="Hack The Box Badge - RohanCyberOps" 
              style="max-width: 300px; width: 50%; height: auto;">
