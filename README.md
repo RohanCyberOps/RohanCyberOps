@@ -304,7 +304,7 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
 
 ## ⚠️ Disclaimer  
 
->> 🛠 **Note:** The technologies and tools mentioned in my profile are for reference purposes only. While I have experience working with them and I'm familiar with their functionalities, I do not claim to be an expert or a certified professional in all of them. My knowledge is based on practical exposure and hands-on usage rather than formal mastery. Please consider this when evaluating my technical skills(For Educational Purpose Only). 🚀🔍
+>> 🛠 **Note:**  I do not claim to be an expert or a certified professional in all of them. My knowledge is based on practical exposure and hands-on usage rather than formal mastery. Please consider this when evaluating my technical skills(For Educational Purpose Only). 🚀🔍
 
 
 ## 📛 Badges 
