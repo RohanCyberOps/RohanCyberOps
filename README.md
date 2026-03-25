@@ -341,7 +341,9 @@ Welcome to my GitHub profile! I'm a passionate **Cybersecurity Enthusiast** and 
              style="max-width: 300px; width: 50%; height: auto;">
     </a>
 </div>
-
+</br>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rohannaagar666" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rohannaagar666?trk=profile-badge">Rohan Naagar</a></div>
+              
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rohancyberops&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true)  
